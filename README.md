@@ -13,7 +13,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://user-images.githubusercontent.com/77306310/177425084-860a7c1a-2970-4d8f-a636-6b4d27303b2f.png)
+
 
 
 ### Built with
