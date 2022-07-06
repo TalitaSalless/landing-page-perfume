@@ -1,0 +1,40 @@
+@media (max-width: 600px){
+    .card {
+        height: 700px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .informacoes{
+        width: 400px;
+        border-radius: 0 0 1rem 1rem;
+    }
+    .informacoes h1 {
+        font-size: 3.4rem;
+        color: hsl(212, 21%, 14%);
+        font-family: var(--font-fraunces);
+    }
+    .informacoes p {
+        font-size: 1.5rem;
+        line-height: 2.5rem;
+    }
+    .card .desktopImg {
+        display: none;
+    }
+    .card .mobileImg {
+        display: block;
+        width: 400px;
+        border-radius: 1rem 1rem 0 0;
+    }
+    .valor .preco {
+        font-size: 3.2rem;
+    }
+    .valor .preco-antigo{
+        font-size: 1.5rem;
+    }
+    button{
+        margin-bottom: 20px;
+        width: 85%;
+    }
+}
